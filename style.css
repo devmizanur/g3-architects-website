@@ -149,6 +149,28 @@ margin-top: 130px;
   .sponsor-company img{
     filter: grayscale(100%);
   }
+  /*feature-sec-styles*/
+  .feature-sec-title{
+    font-size: 2.7rem;
+    font-weight: 700;
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+  }
+  .feature-card{
+    padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06) ;
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+  .feature-card-title{
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .feature{
+    gap:130px;
+  }
 
   /*small device responsive*/
    /*responsive media quary*/
