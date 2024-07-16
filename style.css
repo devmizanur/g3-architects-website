@@ -184,6 +184,21 @@ margin-top: 130px;
     font-size: 3.8rem;
     font-weight: 700;
   }
+  /*footer section*/
+  .footer{
+    max-width: 1440px;
+    height: 80px;
+    background-color: rgb(255, 244, 231);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  }
+  .footer-details{
+    font-size: 1.15rem;
+    font-weight: 400;
+  }
 
   /*small device responsive*/
    /*responsive media quary*/
@@ -208,6 +223,9 @@ margin-top: 130px;
       margin-top: 20px;
       margin-left: 28px;
 
+    }
+    .footer{
+      text-align: center;
     }
   }
   /*medium device responsive*/
